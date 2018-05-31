@@ -1,8 +1,9 @@
 const mongoose = require('mongoose');
 
-const NoteSchema = mongoose.Schema({
+const NoteMasterSchema = mongoose.Schema({
+    key: String,
     value: String,
     timestamp: Number
 });
 
-module.exports = mongoose.model('Note', NoteSchema);
+module.exports = mongoose.model('tblnotemasters', NoteMasterSchema);
