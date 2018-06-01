@@ -17,7 +17,7 @@ node server.js
 ```
 
 
-## Test developer example
+## Test development example
 
 Method: POST
 > Endpoint: /object
