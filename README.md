@@ -44,6 +44,4 @@ Method: GET
 > Response: {"value": "value1" } // still return value 1 , because value 2 was only added at 6.05pm
 
 Note: use /object/mykey/timestamp=1440568980 instead of  /object/mykey?timestamp=1440568980
-```bash
-   Endpoint: /object/mykey/timestamp=1440568980
-```
+Endpoint: /object/mykey/timestamp=1440568980
