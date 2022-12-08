@@ -25,7 +25,7 @@
   "homepage": "https://github.com/jaihan/node-example#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "moment-timezone": "^0.5.17",
     "mongoose": "^5.1.3"
   }
